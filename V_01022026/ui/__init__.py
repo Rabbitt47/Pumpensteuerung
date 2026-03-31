@@ -1,3 +1,0 @@
-"""
-Pumpensteuerung - UI-Initialisierungsmodul
-"""
